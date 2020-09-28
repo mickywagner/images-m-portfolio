@@ -1,6 +1,6 @@
 const pics = [
-    "https://lh3.googleusercontent.com/pw/ACtC-3crkd5DkAdOT4w4nF371G0LWq5jgq-FnVFdZsTm3x_9fvihPAeWmhdqBN90T1z4gf0pv0FdSC6Qlg0NE0MWKtOHre9GWbS-lmo7FvVohR20j9poWs5Ihe2mdpKIKeqPMSTampM5cidKzQhkhL8DO1sO=w2548-h1700-no?authuser=0",
-
+    {src: "https://lh3.googleusercontent.com/pw/ACtC-3cDCF2V5oRmegvKirmSQTs2F47kBoGWxEcZ7Ll0TLdofxENWkslxVgU0ydmVGmT-7nHKDGSm6FjGl0w6xRxutpPMhhb4Ktd1A9UPL9VJO0miSdqP1zHrvxd2fp1PQgqrGbOvH8W3A8DMeNKJK_MN7Qj=w2548-h1700-no?authuser=0", thumb: "https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/VeniceBeachSunset.jpeg"}
+    
 ]
 
 function createJson(array) {
@@ -8,17 +8,19 @@ function createJson(array) {
     for(i = 0; i < array.length; i++) {
        let data = {
            "id": i,
-           "src": array[i],
-           "thumbnail": array [i],
-           "thumbnailWidth": 400,
+           "src": array[i].src,
+           "thumbnail": array[i].thumb,
+           "thumbnailWidth": 500,
            "thumbnailHeight": 300
        }
        json.push(data)
     }
     
+    console.log(json)
     return json
     
 }
 
 let json = createJson(pics)
-console.log(json)
+
+// command shift P
