@@ -118,7 +118,10 @@ function createJson(array) {
     for(i = 0; i < array.length; i++) {
        let data = {
            "id": i,
-           "src": array[i]
+           "src": array[i],
+           "thumbnail": array [i],
+           "thumbnailWidth": 400,
+           "thumbnailHeight": 300
        }
        json.push(data)
     }
