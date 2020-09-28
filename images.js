@@ -118,7 +118,7 @@ function createJson(array) {
     for(i = 0; i < array.length; i++) {
        let data = {
            "id": i,
-           "url": array[i]
+           "src": array[i]
        }
        json.push(data)
     }
