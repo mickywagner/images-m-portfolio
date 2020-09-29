@@ -344,6 +344,11 @@ const pics = [
 
 },
 {
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3fCojEMUraO4Ux5iydhXYPLliVOa_YZKAUh2yrinjeH_Y1mqbWbv-d3GE9_gclckJT_QxsrrAvrVIP25MW1NRg9iKIdlRde8LaKN-YWLd7X20miO3rjNI61FAS6-ldGiNVrwycMNTJIBY9w-nk7ZYA9=w2384-h1788-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_0868.jpeg', 
+
+},
+{
     src: "https://lh3.googleusercontent.com/pw/ACtC-3cQYJQbSwz87apPAldhU_Z_OyCMEyN4sfVhMET15ZcMXmuW6KVfqvFiY7oISKJ2vWHGeP8Zmokru74_OSmSf5M135DwX_DBhqGyuFS_i6Syk7Sj2B0oUWrsXY5s8BxwhpUuqYruzpmefiGSr21uB37Y=w1620-h1080-no?authuser=0",
     thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_4189.jpeg,', 
 
@@ -407,6 +412,11 @@ const pics = [
 {
     src: "https://lh3.googleusercontent.com/pw/ACtC-3cAQR7R_xSEgVYJDmr1Qoi5u_O4UVEBzUp6dr3V0jo3atMotJoFILkGj0uYl9Wseflq1tTz-t76vMEdNATDYQHOnEQJW4DIo_opR18ZZSs_KFLKBfjavlESIPoneWHunAs2gjPy7kZkaDcyXYzI1zjE=w2384-h1590-no?authuser=0",
     thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_6001.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3dcBMq0NW9ZBkKmgDOtXgdRPBHxk3ZHuIzzZw4X0z4LnPdGuyM6WVzEA6Bzypv16MXC68FxBtEVaako2Q0VXmPx7C2A2f1FeRriLd6Zkm7LIS4ORq7w9s4jfTMAF7-VpWDJnkShgFHhTqD_w7RO-Sg6=w2384-h1788-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_0826.jpeg', 
 
 }
 
