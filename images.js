@@ -69,6 +69,11 @@ const pics = [
 
   },
   {
+      src: "https://lh3.googleusercontent.com/pw/ACtC-3fWhTKFaOONrCwoWMKJZ8mekDkp9XuDx7uHhtSgxhvLDBv8BWTjjOZE48d12qwSLE7aekp7ydysHhqh43UZyzGROj2X-srR9Z4qlgxOSgkJRvGFg3f6HHDgdeDLcy1OVeHoSZKbNBhilH7Sf8sAsYBf=w2384-h1590-no?authuser=0",
+      thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_6411.jpeg', 
+
+  },
+  {
     src:
       "https://lh3.googleusercontent.com/pw/ACtC-3fmTBOYP3Q5aO50p2K5tCBziGYd3L7BGlfi8OkC137ovMhGOuiFYBeOTp74Cws9BBAy6QXndbrWUglkZpWCsH361v76xeuXLQAQyAcAVXwrMTZhYb3WP1aOyb0QpKNRRpnnxYCCdkP3DHcnpIgFdVeh=w1828-h1220-no?authuser=0",
     thumb:
@@ -307,6 +312,102 @@ const pics = [
     src: "https://lh3.googleusercontent.com/pw/ACtC-3e_bkY8wr1XiMQHobsiey6Z58J-VBhxMGP_Bhs_JM-jsubbxvxvGzGSCSgmQ5woeJBDjOk4HGHU3tCGDbuU9XFkXNKDU3ZdlHfndpULTQQyzPtoo0q0IErdRQKiTCxJTqwNUkIKLptGp6guET_RboUO=w1304-h1956-no?authuser=0",
     thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_9622.jpeg', 
 
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3d17aP2QPPayBBiE_uBSVukvCPD6mrVKiKmHqELCuqwxohC_F6kiDWPlmPpCltOmQie2RTWO7d72EmsC0YmCaHTMs4S-KAw_99UNyDPd4QE4PXOSzyhWZJ_AxHoLOE-0msbuPYO7KIIhbCGA9uODe1h=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_9406.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3dWI_C2u_aLlZ17iY_VH2SveL7UndIku9zjkZeLL9UviSQ_4s30aACNWuXjB2e39ZAu7QR036CbEDaEjEdB8Z1k1a_5qOdjXxQW44Q3UkPgbslE43hmreWmQQR0PTkQ2xj8LUEdKucEOCRH-PTZn4Wq=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_9788.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3cWrwxCeqpy0GRtWj83R1HKV_Giinb6pSXK5JGa2JS0R9okyQdQipwjGHZzR_jbeDsSMKLrM1NITG5Cr9nK0lZiDH2oS_U1q9hQtiZw5H15she6_CWlSkGlQnHOOEUzJM7qPHWqvbt5GGIeiIZjpMCP=w1828-h584-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_9792.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3d3u_e0OgXQ2ZWK6B7NVWPKfxKzlL4eHviIs_zaZxDa0JFL8HKaZUoDqjls_5i-_UhGuAEmvQrMRNwLRiXPoXi9ViCGY3KXf1Xi6rVTtwhgtiGiILTZ-dNqTLRc4xyopg8ceVOD4LKzbZnLP7WWZWsq=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_9536.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3fX7jgjy5iR-Umw_UtOLOp599YeWbqVyl5cIkZZ91DdODJRD903qN2omvCu_Ng8K67HjqGu_SU-tBFx8Wq48v4EKh9mp0Jw9_5PuZX05ZKJ1RtiU-2gF_NEI4zftxSNHVjblfxWuMCLy39tm2QC2Kje=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_9696.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3cgvMKJb5YaJfBlGmXQylv7blSWEzIo_gzoMQbDyJP94_Ong7wbrquP7AFjAacWoiGfURYkCbQ6YqY3ohc9nM4aI3cNnpyKbRyOiw1hN_TlHk8EW_bICjeKc1o7OnxaJpzfiQ4eOrA7bl0PLBGeUy5u=w1620-h1080-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_4196.jpeg,', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3cQYJQbSwz87apPAldhU_Z_OyCMEyN4sfVhMET15ZcMXmuW6KVfqvFiY7oISKJ2vWHGeP8Zmokru74_OSmSf5M135DwX_DBhqGyuFS_i6Syk7Sj2B0oUWrsXY5s8BxwhpUuqYruzpmefiGSr21uB37Y=w1620-h1080-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_4189.jpeg,', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3fy88gKf-EAkP13Te_OroQD-O8fY6uQ9Sjd-TLmeygnwoyc4FRzRxTNtKgspgQhoUDqc_ZRVEJp9SRKOl_ur2QmpORQQqWRwvfknt-7GYj_Ve-hRFpdUdTtTO2BT-bE974qS6vU_dt9wfGU98-yvcsa=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_9002.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3fE9ulOe1xdvkENqfxHeCShkSwwQF8nRUhfn87dz0bXwEPxhA7vOBYFch36qzD50i79wrHHri1lfRKflddgKEXwBfoEhPdkrheZuAu8xgFGWb574UFdiEC9UU46lvXKyDoXyEwM4PIN-F1E4yMEjRcB=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_6359.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3fspC31ieMBW8bMS1OFTh4m0K_AccwQxSOimuzabcavGg92cnDHvOr_RFZEKNtuqzCh194LLQy5uHomSQ1mBgCm0uFvxvQnSLGfcjr2944p2s5F0wxMuPY9ttyL3bmTbMomQhPFPsqw2vKKpvmlRVPa=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_6014.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3dv7lcul3Uiz-s6ci9SlwPy466bjtxe2r3qzRWbWv3VLei5XMXCqUBwk1Ec6OwpJs8ydA7XfCzBJc56J3aq2Kj05-b5CNzzE-4MaFPkiC0cunWIMaP4_YxAYwpOJdPeNCKc7MJo9CrchGa29Kj0mBGI=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_4983-Edit.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3c4UnTWV-cqehjdthXruxfLHv2AXwcLSqJVlmHtyx1Jocj27f7PQ9ix4iOXLEkGaJpVokOSlnfRSVKY9-O4MnkLEs8tPVFVEFKGf4bHS9De3DTuKgsZ4ifViWAmX-8OoyKrJm716G069SnkS6deF5q5=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_0949.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3c5GOjMwXclStyWIHjExzKlVYdwrUusQYc80_QAqI5QouWDVv5848IFcmAONIpFP7mQ1ydLv44exyOaw2q-XyRkJKHrFpaKCDPe3g1Duo6qmBmwL9Qi1t9BYbM8X_1CLNLMA-XnsEufmnSD1Cj5DD_a=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_0537.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3cDsy3m7Br7F0lQN0Et8meq3t5B0llCtkav6JXwXL4_eNg1hlPdXUggUjOLSBYX7pwwHvYKNjHVfnF4rCO7ZA5tt_MbodEMUF9bq_f6UL1yu4kP8KrSIXIeFNS1rObyL-XsD_3O3ZA6wM_Xei5a8opr=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_2610.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3c7jOk2TpssVsblbscT--_an130pRS5Zn_Z8PTPUTlpN_XD5YPN9gOwB2SPyfZfnKJWh9Xk-Uj1gSvrq3VMTvD7VlghEwROwZ_vm6nmzCPj8cP6rPajiWvSC7qZThOKCktm_7Oq6obuM2_tILFUvfwZ=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_4122.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3e8tZ3YtkwUxkYPLvryFZFQdU2jR0aXLOwbu6pgf4CelGjlODOayf8UcMEe3dd1ZikvSmWPPvngKS2F3MkEtKZoTRUOXGs26VOedTp7QWBzQ2j7gUAOTE5Kovsj95KScjS3N0Cy85B8r-wFzD8GmLqC=w1828-h1220-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_7409.jpeg', 
+
+},
+
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3eujRj0bzXltk6GUyDXUCGPZzFp7ghHF-gBHyq68x6-Jg7YPOFJR6Bi4Rn4U_VOS71lAbUm1cx_tTqXqPSdvkc2SpD7cVeYW_ZMVVfcYJVK1lZIn-3ZEaiiTb8HD73fB-yELDe9kn_uUnHhuClsLg8s=w1894-h1464-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_6515.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3fNr9a25A1j0xsqrh_MQH1nlVX9MUJkq_5pkYypZyGfiU1dJ6DMrXKiOjVDlFsKZ3EFecSo3po3qhONFfsETsifajWfZ8hQLqjCp0gK6juL1AjyLMS4lrn1XjKYZlNaxV6i6RMWsSGTmlkc5pB5-GkR=w2384-h1590-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_6100.jpeg', 
+
+},
+{
+    src: "https://lh3.googleusercontent.com/pw/ACtC-3cAQR7R_xSEgVYJDmr1Qoi5u_O4UVEBzUp6dr3V0jo3atMotJoFILkGj0uYl9Wseflq1tTz-t76vMEdNATDYQHOnEQJW4DIo_opR18ZZSs_KFLKBfjavlESIPoneWHunAs2gjPy7kZkaDcyXYzI1zjE=w2384-h1590-no?authuser=0",
+    thumb:   'https://raw.githubusercontent.com/mickywagner/images-m-portfolio/master/compressed_thumbnails/IMG_6001.jpeg', 
+
 }
 
 ]; 
@@ -316,7 +417,7 @@ function createJson(array) {
   for (i = 0; i < array.length; i++) {
     let data = {
       id: i,
-      src: array[i].src,
+      src: array[i].thumb,
       thumbnail: array[i].thumb,
       thumbnailWidth: 400,
       thumbnailHeight: 300,
